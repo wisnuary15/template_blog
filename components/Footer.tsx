@@ -7,7 +7,7 @@ import { AiFillProject } from 'react-icons/ai'
 import { RiOpenSourceLine } from 'react-icons/ri'
 import Link from 'next/link'
 
-export default function Footer({ theme }) {
+export default function Footer() {
   return (
     <footer className="py-16">
       <div className="container mx-auto flex flex-col items-center">
